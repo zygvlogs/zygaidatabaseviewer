@@ -54,12 +54,6 @@ It stands as proof that information can survive technological generations — an
 
 ---
 
-## 🖼️ Screenshots  
-
-*(Insert CRT photos here — menu view, dataset output, etc.)*  
-
----
-
 ## 🧠 Credits  
 
 - **Concept & programming:** Žygimantas Mažeika / ZygVlogs  
