@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-ZX_Spectrum_128K-blue)]()  
 [![Version](https://img.shields.io/badge/Version-1985--v1.0-green)]()  
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE)  
-[![Dataset](https://img.shields.io/badge/ZygAI-HuggingFace-yellow)](https://huggingface.co/datasets/ZygAI/zygaireasearch2025and2026)
+[![Dataset](https://img.shields.io/badge/ZygAI-HuggingFace-yellow)](https://huggingface.co/ZygAI)
 
 ---
 
