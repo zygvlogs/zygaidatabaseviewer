@@ -57,7 +57,7 @@ It stands as proof that information can survive technological generations — an
 ## 🧠 Credits  
 
 - **Concept & programming:** Žygimantas Mažeika / ZygVlogs  
-- **Research base:** [ZygAI Research Dataset (2025–2026)](https://huggingface.co/datasets/ZygAI/zygaireasearch2025and2026)  
+- **Research base:** [ZygAI Research Datasets](https://huggingface.co/ZygAI)  
 - **Hardware tested:** ZX Spectrum 128K, Šilelis 405D-1 CRT  
 
 ---
